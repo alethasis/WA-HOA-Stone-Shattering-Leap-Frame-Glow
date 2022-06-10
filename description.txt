@@ -1,0 +1,16 @@
+Puts Frame Glow around the target of HOA Echelon's Stone Shattering Leap (2nd boss) to help decursers know who to prioritize.
+
+Change particle count, size, and color under [b]Actions[/b] tab (see image).
+
+---
+
+Changes from Original
+[list]
+[*] Only load WA during Echelon encounter, rather than for entire HoA
+[*] Refactor ambiguous variable references
+[*] Remove superfluous variables and logic checks
+[/list]
+
+---
+
+Original Author [url=https://wago.io/QKcX8PiKF]Tiran[/url]
